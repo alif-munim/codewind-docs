@@ -1,116 +1,116 @@
 - title: 'What is Codewind?'
-  url: overview.html
+  url: overview
 
 - title: 'Getting started'
   children:
     - title: 'Overview: Getting started'
-      url: gettingstarted-overview.html
+      url: gettingstarted-overview
     - title: 'VS Code'
       children:
       - title: '1. Installing Codewind for VS Code'
-        url: vsc-getting-started.html
+        url: vsc-getting-started
       - title: '2. Creating your first Codewind project with Codewind for VS Code'
-        url: vsc-firstproject.html
+        url: vsc-firstproject
       - title: '3. Making a code change with VS Code'
-        url: vsc-codechange.html
+        url: vsc-codechange
     - title: 'Eclipse'
       children:
       - title: '1. Installing Codewind for Eclipse'
-        url: eclipse-getting-started.html
+        url: eclipse-getting-started
       - title: '2. Creating your first Codewind project with Codewind for Eclipse'
-        url: eclipse-firstproject.html
+        url: eclipse-firstproject
       - title: '3. Making a code change with Eclipse'
-        url: eclipse-codechange.html
+        url: eclipse-codechange
     - title: 'IntelliJ'
       children:
       - title: '1. Installing Codewind for IntelliJ'
-        url: intellij-getting-started.html
+        url: intellij-getting-started
       - title: '2. Creating your first Codewind project with Codewind for IntelliJ'
-        url: intellij-firstproject.html
+        url: intellij-firstproject
       - title: '3. Making a code change with IntelliJ'
-        url: intellij-codechange.html
+        url: intellij-codechange
 
 - title: 'Deploying Codewind remotely'
-  url: remote-deploying-codewind.html
+  url: remote-deploying-codewind
 
 - title: 'Using Codewind remotely'
   children:
     - title: '1. Overview: Using Codewind remotely'
-      url: remote-codewind-overview.html
+      url: remote-codewind-overview
     - title: '2. Connecting your IDE to remote Codewind'
       children:
       - title: 'Connecting VS Code to remote Codewind'
-        url: remotedeploy-vscode.html
+        url: remotedeploy-vscode
       - title: 'Connecting Eclipse to remote Codewind'
-        url: remotedeploy-eclipse.html
+        url: remotedeploy-eclipse
     - title: '3. Adding an image registry in remote Codewind'
-      url: remote-setupregistries.html
+      url: remote-setupregistries
     - title: '4. Creating and importing projects'
       children:
       - title: 'VS Code'
-        url: remotedeploy-projects-vscode.html
+        url: remotedeploy-projects-vscode
       - title: 'Eclipse'
-        url: remotedeploy-projects-eclipse.html
+        url: remotedeploy-projects-eclipse
 
 
 - title: 'Using Codewind on Eclipse Che'
   children:
   - title: '1. Installing Eclipse Che for Codewind'
-    url: che-installinfo.html
+    url: che-installinfo
   - title: '2. Adding an image registry in Codewind on Eclipse Che'
-    url: che-setupregistries.html
+    url: che-setupregistries
   - title: '2a. Adding the OpenShift internal registry with Codewind'
-    url: openshiftregistry.html
+    url: openshiftregistry
   - title: '3. Creating a Codewind workspace in Eclipse Che'
-    url: che-createcodewindworkspace.html
+    url: che-createcodewindworkspace
   - title: '4. Creating your first Codewind project with Codewind for Eclipse Che'
-    url: che-createfirstproject.html
+    url: che-createfirstproject
   - title: '5. Making a code change with Codewind for Eclipse Che'
-    url: che-codechange.html
+    url: che-codechange
   - title: '6. Uninstalling Codewind for Eclipse Che'
-    url: che-uninstall.html
+    url: che-uninstall
 
 - title: 'OpenShift Do (odo) support in Codewind'
-  url: che-odo-support.html
+  url: che-odo-support
 
 - title: 'Working with templates'
-  url: workingwithtemplates.html
+  url: workingwithtemplates
 
 - title: 'Developing projects'
   children:
     - title: 'Understanding application and build statuses'
-      url: checkingstatuses.html
+      url: checkingstatuses
     - title: 'Importing existing projects'
-      url: importing-existing-projects.html
+      url: importing-existing-projects
     - title: 'Project actions'
-      url: project-actions.html
+      url: project-actions
     - title: 'Project settings'
-      url: project-settings.html
+      url: project-settings
     - title: 'Referencing files external to a project'
-      url: referencing-files.html
+      url: referencing-files
     - title: 'Developing with packages from private registries and repositories'
-      url: private-registries.html
+      url: private-registries
     - title: 'Using Codewind offline'
-      url: offline-codewind.html
+      url: offline-codewind
     - title: 'Debugging in Codewind'
-      url: debugging.html
+      url: debugging
 
 - title: 'Performance monitoring'
   children:
     - title: 'Understanding the Metrics Dashboard'
-      url: 'metrics-dashboard.html'
+      url: 'metrics-dashboard'
     - title: 'Monitoring applications with the Performance Dashboard'
-      url: performance.html
+      url: performance
 
 - title: 'OpenAPI Tools'
   children:
     - title: 'Codewind OpenAPI Tools for VS Code'
-      url: open-api-tools-for-vscode.html
+      url: open-api-tools-for-vscode
     - title: 'Codewind OpenAPI Tools for Eclipse'
-      url: open-api-tools-for-eclipse.html
+      url: open-api-tools-for-eclipse
 
 - title: 'Configuring Codewind for Tekton pipelines'
-  url: che-tektonpipelines.html
+  url: che-tektonpipelines
 
 - title: 'Troubleshooting'
-  url: troubleshooting.html
+  url: troubleshooting
