@@ -1,7 +1,7 @@
 (function() {
   function displaySearchResults(results, store) {
     const searchResults = document.getElementById('search-results');
-    const baseURL = "/codewind";
+    const baseURL = "/codewind-docs";
 
     if (results.length) { // Are there any results?
       let appendString = '';
